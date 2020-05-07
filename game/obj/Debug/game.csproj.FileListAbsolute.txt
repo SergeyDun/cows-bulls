@@ -1,0 +1,14 @@
+C:\1\game\bin\Debug\game.exe.config
+C:\1\game\bin\Debug\game.exe
+C:\1\game\bin\Debug\game.pdb
+C:\1\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\1\game\obj\Debug\MainWindow.g.cs
+C:\1\game\obj\Debug\App.g.cs
+C:\1\game\obj\Debug\game_MarkupCompile.cache
+C:\1\game\obj\Debug\game_MarkupCompile.lref
+C:\1\game\obj\Debug\MainWindow.baml
+C:\1\game\obj\Debug\game.g.resources
+C:\1\game\obj\Debug\game.Properties.Resources.resources
+C:\1\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\1\game\obj\Debug\game.exe
+C:\1\game\obj\Debug\game.pdb
